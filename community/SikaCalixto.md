@@ -1,5 +1,5 @@
 # SikaCalixto
-## Olá, meu no nome é Simone Dias Calixto.
+## Olá, meu nome é Simone Dias Calixto.
 ### Atualmente trabalho como gerente comercial, em uma das maiores empresas no ramo de papelaria no Brasil.
 ### Estou cursando Analise e desenvolvimento de sistemas pela Unicesumar, e estou estudando paralelamente Java e Javascript.
 
